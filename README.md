@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Moreira</h1>
 <h3 align="center"> Front-End Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=megacy&label=Profile%20views&color=0e75b6&style=flat" alt="megacy" /> </p>
-
 - 🔭 I’m currently working on **Fitness Management Platform**
 
 - 🌱 I’m currently learning **Motion Design with Figma: Animations, Motion Graphics, UI/UX**
